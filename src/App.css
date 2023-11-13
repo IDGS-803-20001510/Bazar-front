@@ -1,0 +1,24 @@
+.fondo {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #7EA8FF, #61FFC6); /* Cambia los colores a tu gusto */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.detalle {
+    background-color: white;
+}
+
+h1 {
+    color: #F5F5F5;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.titulo {
+    color: black;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
